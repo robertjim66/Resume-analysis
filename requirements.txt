@@ -1,0 +1,14 @@
+openai
+pdfplumber
+Pillow
+pytesseract
+numpy
+requests
+flask
+flask_cors
+paddleocr
+langchain_community
+langchain_text_splitters
+easyocr
+python-docx
+markdown
